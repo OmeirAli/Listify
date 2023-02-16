@@ -22,7 +22,7 @@ Steps:
 
 4) Locate where your project zip "Listify2023" folder is downloaded. For eg: /Users/omeirali/Downloads/OmeirAli-Listify-facfed6/Listify2023
 
-5) On terminal, go to the path working directory of this project Listify2023 folder (For eg: /Users/omeirali/Downloads/OmeirAli-Listify-facfed6/Listify2023) and on your terminal and type Python Listify.py to run Listify
+5) On terminal, go to the path working directory of this project Listify2023 folder (For eg: /Users/omeirali/Downloads/OmeirAli-Listify-facfed6/Listify2023) and on your terminal type in Python Listify.py to run Listify
 
 ![preview](https://user-images.githubusercontent.com/122340082/219491249-4da72aed-8f44-4c3e-bcc1-342029f96387.png)
 ![5](https://user-images.githubusercontent.com/122340082/219491370-b88c0dc3-f917-4213-b046-00c0e181ddf3.png)
