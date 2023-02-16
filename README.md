@@ -15,10 +15,10 @@ Steps:
 2) Open "Listify.py" in your preferred code editor
 
 3) Install the followiwng modules via Terminal if you don't have them and get "Import could not be resolved"
-pip install tkcalendar
-pip install customtkinter
-pip install pandas
-pip install python-dateutil
+- pip install tkcalendar
+- pip install customtkinter
+- pip install pandas
+- pip install python-dateutil
 
 4) Locate where your project zip "Listify2023" folder is downloaded. For eg: /Users/omeirali/Downloads/OmeirAli-Listify-facfed6/Listify2023
 
